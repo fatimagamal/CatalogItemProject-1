@@ -1,20 +1,24 @@
 # Item Catalog App
+
 An application that provides a list of items within a variety of categories 
 as well as provide a user registration and authentication system.
 Registered users will have the ability to post, edit and delete their own items.
 
-##More Further about project
+## More Further about project
+
  The Item Catalog project consists of developing an application that provides
  a list of items within a variety of categories, 
  as well as provide a user registration and authentication system.
  
  
 ## Dependencies
+
 * [Vagrant](https://www.vagrantup.com/)
 * [Udacity Vagrantfile](https://github.com/udacity/fullstack-nanodegree-vm)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 ## How to Install
+
 1. Install Vagrant & VirtualBox
 2. Clone the Udacity Vagrantfile
 3. Go to Vagrant directory and either clone this repo or download and place zip here
@@ -29,6 +33,7 @@ Registered users will have the ability to post, edit and delete their own items.
 
 
 ## JSON Endpoints
+
 *Restaurants JSON: `/restaurant/JSON`
     - Displays all Restaurants
 
